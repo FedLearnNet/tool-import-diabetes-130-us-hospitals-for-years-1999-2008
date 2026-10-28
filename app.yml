@@ -16,8 +16,8 @@ config:
     type: CSV
 info:
   longDescription: null
-  name: tool-import-diabetes-130-us-hospitals-for-years-1999-2008
+  name: import-diabetes-130-us-hospitals-for-years-1999-2008
   shortDescription: Imports the UCI Diabetes 130-US Hospitals (1999–2008) dataset and its ID mappings into FL-Net.
-  slug: tool-import-diabetes-130-us-hospitals-for-years-1999-2008
+  slug: import-diabetes-130-us-hospitals-for-years-1999-2008
   sourceUrl: https://github.com/FedLearnNet/tool-import-diabetes-130-us-hospitals-for-years-1999-2008
   type: EXTRACTOR

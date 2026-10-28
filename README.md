@@ -1,4 +1,4 @@
-# tool-import-diabetes-130-us-hospitals-for-years-1999-2008
+# import-diabetes-130-us-hospitals-for-years-1999-2008
 
 Imports the UCI Diabetes 130-US Hospitals (1999–2008) dataset and its ID mappings into FL-Net.
 
