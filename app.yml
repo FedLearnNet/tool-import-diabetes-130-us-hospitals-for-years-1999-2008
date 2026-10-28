@@ -1,0 +1,23 @@
+config:
+  hyperparams: []
+  input: []
+  output:
+  - description: diabetic_data.csv
+    maxValue: null
+    minValue: null
+    name: data
+    shape: null
+    type: CSV
+  - description: IDS_MAPPING file.
+    maxValue: null
+    minValue: null
+    name: ids
+    shape: null
+    type: CSV
+info:
+  longDescription: null
+  name: tool-import-diabetes-130-us-hospitals-for-years-1999-2008
+  shortDescription: Imports the UCI Diabetes 130-US Hospitals (1999–2008) dataset and its ID mappings into FL-Net.
+  slug: tool-import-diabetes-130-us-hospitals-for-years-1999-2008
+  sourceUrl: https://github.com/FedLearnNet/tool-import-diabetes-130-us-hospitals-for-years-1999-2008
+  type: EXTRACTOR
